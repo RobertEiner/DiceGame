@@ -1,0 +1,35 @@
+body {
+  background-color: #F5E8C7;
+  text-align: center;
+  font-family: 'DynaPuff', cursive;
+}
+
+h1 {
+  font-size: 5em;
+  color: #54BAB9;
+  margin-top: 5%;
+}
+
+h2 {
+  color: #54BAB9;
+  font-family: 'DynaPuff', cursive;
+}
+
+.dice {
+ display: inline-block;
+}
+
+p {
+  font-size: 0.7em;
+}
+
+footer {
+  margin-top: 5%;
+  color: #54BAB9;
+}
+
+a {
+  text-decoration: none;
+  color: #54BAB9;
+  
+}
